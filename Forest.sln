@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "forestApi", "forestApi\forestApi.csproj", "{C5D993D9-AC84-42A9-9131-F87FCC006007}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5D993D9-AC84-42A9-9131-F87FCC006007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5D993D9-AC84-42A9-9131-F87FCC006007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5D993D9-AC84-42A9-9131-F87FCC006007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5D993D9-AC84-42A9-9131-F87FCC006007}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {942C5FD5-2E08-4AA2-A037-B5FFC85EB075}
+	EndGlobalSection
+EndGlobal
