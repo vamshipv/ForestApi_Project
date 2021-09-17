@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace forestApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/trails")]
     [ApiController]
     //[ApiExplorerSettings(GroupName = "ParkyOpenAPISpecTrails")]
     [ProducesResponseType(StatusCodes.Status400BadRequest)]

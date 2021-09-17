@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace forestApi.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/nationalparks")]
     [ApiController]
     public class NationalParksController : ControllerBase
     {
